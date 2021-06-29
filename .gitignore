@@ -1,2 +1,6 @@
 # idea dir
 /.idea
+
+# dist files
+
+dist/*
